@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# rotary
+#
+DEF rotary U 0 40 Y Y 1 F N
+F0 "U" 250 300 60 H V C CNN
+F1 "rotary" -350 300 60 H V C CNN
+F2 "" -200 0 60 H V C CNN
+F3 "" -200 0 60 H V C CNN
+DRAW
+P 5 0 1 0  -250 200  -250 -200  250 -200  250 200  -250 200 N
+X A 1 -450 100 200 R 50 50 1 1 I
+X GND 2 -450 0 200 R 50 50 1 1 I
+X B 3 -450 -100 200 R 50 50 1 1 I
+X sw1 4 450 50 200 L 50 50 1 1 I
+X sw2 5 450 -50 200 L 50 50 1 1 I
+X shield 6 0 -400 200 U 50 31 1 1 I
+X shield 7 0 400 200 D 50 31 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
