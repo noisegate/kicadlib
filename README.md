@@ -6,3 +6,5 @@ Some kicad libraries for parts I often use. Including some adafruit parts.
 
 ![alt](https://github.com/noisegate/kicadlib/blob/master/pics/ada-brd.png)
 
+https://github.com/adafruit/Adafruit-NeoPixel-Ring
+
