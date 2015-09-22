@@ -5,6 +5,7 @@
   (fp_text value VAL** (at 24.13 -40.64) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
+  (fp_arc (start -7.62 -40.132) (end -7.62 -41.148) (angle 90) (layer F.SilkS) (width 0.15))
   (fp_line (start 19.558 -9.779) (end 19.558 -16.764) (layer F.SilkS) (width 0.15))
   (fp_line (start 26.416 -9.779) (end 19.558 -9.779) (layer F.SilkS) (width 0.15))
   (fp_line (start 26.416 -16.764) (end 26.416 -9.779) (layer F.SilkS) (width 0.15))
