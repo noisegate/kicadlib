@@ -1,4 +1,4 @@
-# kicadlib
+# kicad library 
 
 Some kicad libraries for parts I often use. Including some adafruit parts.
 
