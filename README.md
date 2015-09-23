@@ -8,3 +8,7 @@ Some kicad libraries for parts I often use. Including some adafruit parts.
 
 https://github.com/adafruit/Adafruit-NeoPixel-Ring
 
+## Atmel chips arduino style
+
+![alt](https://github.com/noisegate/kicadlib/blob/master/pics/atduino.png)
+
