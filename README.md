@@ -14,4 +14,4 @@ https://github.com/adafruit/Adafruit-NeoPixel-Ring
 
 ## Pololu
 
-![alt](https://github.com/noisegate/kicadlib/blob/master/pics/pololu8825.svg)
+![alt](https://github.com/noisegate/kicadlib/blob/master/pics/pololu8825.png)
