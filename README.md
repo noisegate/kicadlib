@@ -2,6 +2,10 @@
 
 Some kicad libraries for parts I often use. Including some adafruit parts.
 
+## Misc
+
+![alt](https://github.com/noisegate/kicadlib/blob/master/pics/misc.png)
+
 ## Adafruit lib parts examples
 
 ![alt](https://github.com/noisegate/kicadlib/blob/master/pics/ada-brd.png)
@@ -15,3 +19,4 @@ https://github.com/adafruit/Adafruit-NeoPixel-Ring
 ## Pololu
 
 ![alt](https://github.com/noisegate/kicadlib/blob/master/pics/pololu8825.png)
+
