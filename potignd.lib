@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# alpspot
+#
+DEF alpspot RV 0 40 Y Y 1 F N
+F0 "RV" 550 400 60 H V C CNN
+F1 "alpspot" -400 400 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S -350 100 350 -250 0 1 0 N
+S -300 50 300 -50 0 1 0 N
+P 4 0 1 0  0 -50  -50 -100  50 -100  0 -50 F
+X L 1 -500 0 200 R 50 50 1 1 I
+X ~ 2 0 -300 200 U 50 50 1 1 I
+X H 3 500 0 200 L 50 50 1 1 I
+X GND 4 -550 -150 200 R 50 50 1 1 I
+X GND 5 550 -150 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
