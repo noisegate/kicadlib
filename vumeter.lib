@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# VUmeter
+#
+DEF VUmeter U 0 40 Y Y 1 F N
+F0 "U" 300 350 60 H V C CNN
+F1 "VUmeter" -150 350 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+A 0 -100 361 1463 337 0 0 0 N -300 100 300 100
+T 0 0 100 60 0 0 0 VU  Normal 0 C C
+S -350 0 350 -150 0 1 0 F
+S -350 300 350 -150 0 1 0 f
+P 2 0 1 0  0 -100  -250 200 N
+X vu+ 1 -550 -50 200 R 50 20 1 1 I
+X vu- 2 550 -50 200 L 50 20 1 1 I
+X L+ 3 -100 -350 200 U 50 20 1 1 I
+X L- 4 100 -350 200 U 50 20 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
